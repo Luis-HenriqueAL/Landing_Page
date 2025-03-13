@@ -37,9 +37,9 @@
 
 					<div class="social-media">
 						<p>Siga-me:</p>
-						<a href="">Facebook</a>
-						<a href="">Instagram</a>
-						<a href="">Youtube</a>
+						<a href="#">F</a>
+						<a href="#">I</a>
+						<a href="#">Y</a>
 					</div>
 
 				</div>
